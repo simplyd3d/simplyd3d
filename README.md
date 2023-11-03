@@ -8,7 +8,7 @@ Getting started on my programming journey. Unfortunately my live website is not 
 |1. [Overview](#overview) | 2. [Contact](#contact)|
 
 
-## Overview {#overview}
+## Overview
 
 Lorem Ipsum... Placeholder text.
 
